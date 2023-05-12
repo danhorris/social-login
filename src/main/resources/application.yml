@@ -1,0 +1,8 @@
+spring.security.oauth2.client.registration.github.client-id: 40a52b903615dc447b17
+spring.security.oauth2.client.registration.github.client-secret: bc5335d6894b5ad7fc6a4f8fe356f3a7519ab0ee
+
+
+spring.security.oauth2.client.registration.google.client-id: 41876314408-uqt32uqj9cg58e09cnntd69igat5dqnl.apps.googleusercontent.com
+spring.security.oauth2.client.registration.google.client-secret: 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
+
+logging.level.org.springframework.security: TRACE
