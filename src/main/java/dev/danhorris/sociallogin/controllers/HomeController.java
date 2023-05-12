@@ -17,7 +17,7 @@ public class HomeController {
 
     
     @GetMapping("/secure")
-    public String secure(OAuth2AuthenticationToken principal){
+    public String secure(){
         return "Hello Secured";
     }
     
